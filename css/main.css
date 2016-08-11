@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100%;
+  line-height: 1;
+  display: block;
+  font-family: Montserrat; }
+
+.wrapper {
+  height: 100%; }
+
+.image-1 {
+  background-image: url("../IMG_2885.jpg"); }
+
+.image-2 {
+  background-image: url("../IMG_1499.jpg"); }
+
+.image-3 {
+  background-image: url("../Summer%20House.jpg");
+  background-position: 100% 100% !important; }
+
+.parallax {
+  height: 600px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+  .parallax h1 {
+    margin: 0;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 48px;
+    line-height: 600px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.2); }
+
+.content {
+  background: #4ccb17; }
+
+/*# sourceMappingURL=main.css.map */
